@@ -25,7 +25,10 @@ preV5, V5, and postV6 filters need to be configured once on a server by server b
 
 ## Optimizations/Future Plans
 -complete invasionlayers.csv and invasionlayersSE.csv for attack/defend faction and attack/defend ticket accuracy
+
 -create filters for faction (i.e. filter all layers for faction United States Army on team 1)
+
 -add terminal args for configuring input JSON name/file path and output CSV's name/file path, filters, and fields
+
 -add interopability with default squadJS match logs
   >squadJS match logs would allow for average match time analysis 

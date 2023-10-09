@@ -3,7 +3,7 @@ Scripts for analyzing Invasion balancing by layer or level. Requires JSON match 
 
 Example of visualized data: https://bit.ly/invasion-stats-all-time
 
-#How It's Made:
+## How It's Made:
 **Tech Used:** Python, JSON, CSV
 
 Requires pandas library
@@ -18,7 +18,7 @@ LayerScript.py can also be used to analyze Squad Enhanced layer statistics, by s
 Filters in the Game class can be used in the filter block to filter for specific matches. Preset filters include afk/empty server and version (preV5, V5, or postV6)
 preV5, V5, and postV6 filters need to be configured once on a server by server basis for which match ID marked the first game of the update V5 and V6
 
-#Optimizations/Future Plans
+## Optimizations/Future Plans
 -add interopability with default SquadJS match logs
   -would allow for average match time
 -add terminal args for configuring input JSON name/file path and output CSV's name/file path, filters, and fields

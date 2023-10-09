@@ -1,7 +1,9 @@
 # Squad Invasion Statistics
-Scripts for analyzing Invasion balancing by layer or level. Requires JSON match log with winner/loser team #. 
+Scripts for analyzing Invasion balancing by layer or level. Requires custom JSON match log with winner/loser team #, level, and layer (in display form)
 
 Example of visualized data: https://bit.ly/invasion-stats-all-time
+
+Special thanks to @midwaey for providing match logs, and @ChristianBrinkley for consulation!
 
 ## How It's Made:
 **Tech Used:** Python, JSON, CSV
@@ -23,6 +25,4 @@ preV5, V5, and postV6 filters need to be configured once on a server by server b
 -create filters for faction (i.e. filter all layers for faction United States Army on team 1)
 -add terminal args for configuring input JSON name/file path and output CSV's name/file path, filters, and fields
 -add interopability with default squadJS match logs
-  -squadJS match logs would allow for average match time analysis 
-
-## Lessons Learned
+  >squadJS match logs would allow for average match time analysis 

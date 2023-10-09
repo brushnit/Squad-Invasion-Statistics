@@ -11,8 +11,11 @@ Special thanks to @midwaey for providing match logs, and @ChristianBrinkley for 
 Requires pandas library
 
 Simply configure match log JSON file path at top and run.
+
 Creates duplicate of invasionlayerss.csv, invasionlevels.csv, or invasionlayersSE.csv with appended fields for # attack wins, # defense wins, attack win %, defend win %, and # of matches.
+
 LayerScript.py duplicates invasionlayers.csv, LevelScript.py duplicates invasionlevels.csv
+
 LevelScript requires BOTH invasionlayers.csv and invasionlevels.csv to function. LayerScript requires only invasionlayers.csv
 
 LayerScript.py can also be used to analyze Squad Enhanced layer statistics, by simply configuring original_file_path to invasionlayersSE.csv

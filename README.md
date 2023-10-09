@@ -31,4 +31,5 @@ preV5, V5, and postV6 filters need to be configured once on a server by server b
 -add terminal args for configuring input JSON name/file path and output CSV's name/file path, filters, and fields
 
 -add interopability with default squadJS match logs
-    -squadJS match logs would allow for average match time analysis 
+
+-squadJS match logs would allow for average match time analysis 

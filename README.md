@@ -1,5 +1,5 @@
 # Squad Invasion Statistics
-Scripts for analyzing Invasion balancing by layer or level. Requires custom JSON match log with winner/loser team #, level, and layer (in display form)
+Scripts for analyzing Invasion balancing by layer or level. Requires custom JSON match log with objects containing winner & loser team # (1/2), level, and layer (in display form)
 
 Example of visualized data: https://bit.ly/invasion-stats-all-time
 
@@ -10,9 +10,9 @@ Special thanks to @midwaey for providing match logs, and @ChristianBrinkley for 
 
 Requires pandas library
 
-Simply configure match log JSON file path at top and run.
+Simply configure file path of match log JSON at the top of .py and run.
 
-Creates duplicate of invasionlayerss.csv, invasionlevels.csv, or invasionlayersSE.csv with appended fields for # attack wins, # defense wins, attack win %, defend win %, and # of matches.
+Creates duplicate of invasionlayers.csv, invasionlevels.csv, or invasionlayersSE.csv with appended fields for # attack wins, # defense wins, attack win %, defend win %, and # of matches.
 
 LayerScript.py duplicates invasionlayers.csv, LevelScript.py duplicates invasionlevels.csv
 

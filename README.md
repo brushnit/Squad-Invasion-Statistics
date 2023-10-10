@@ -21,7 +21,7 @@ Open up LayerScriot.py or LevelScript.py in editor. Configure file path of match
 
 ## Notes:
 
-JSON 'DBLog_Games_2023_10_08.json' is an example of a suitable math log JSON. It contains match data from March 1st, 2023 to October 8th, 2023. 
+JSON 'DBLog_Games_2023_10_08.json' is an example of a suitable match log JSON. It contains match data from March 1st, 2023 to October 8th, 2023. 
 
 Creates duplicate of invasionlayers.csv, invasionlevels.csv, or invasionlayersSE.csv with appended fields for # attack wins, # defense wins, attack win %, defend win %, and # of matches.
 

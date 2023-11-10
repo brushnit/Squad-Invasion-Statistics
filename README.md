@@ -1,7 +1,7 @@
 # Squad Invasion Statistics
 Scripts for analyzing Invasion balancing by layer or level. Requires custom JSON match log with objects containing winner & loser team # (1/2), level, and layer (in display form).
 
-Example of visualized data: [https://bit.ly/invasion-stats-all-time](https://bit.ly/Invasion-Match-Analysis)
+[Example of visualized data](https://bit.ly/Invasion-Match-Analysis)
 
 Special thanks to @midwaey for providing match logs, and @ChristianBrinkley for consulation!
 

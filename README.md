@@ -17,7 +17,7 @@ Special thanks to @midwaey for providing match logs, and @ChristianBrinkley for 
 
 Download all source files and place all into a folder accesible to preffered editor.
 
-Open up LayerScriot.py or LevelScript.py in editor. Configure file path of match log JSON and run.
+Open up LayerScript.py or LevelScript.py in editor. Configure file path of match log JSON and run.
 
 ## Notes:
 

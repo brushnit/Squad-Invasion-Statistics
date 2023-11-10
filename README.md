@@ -36,8 +36,6 @@ Filters in the Game class can be used in the filter block to filter for specific
 preV5, V5, and postV6 filters need to be configured once on a match log by match log basis for which match ID marks the first game of the updates V5 and V6.
 
 ## Optimizations/Future Plans
--complete invasionlayers.csv and invasionlayersSE.csv for attack/defend faction and attack/defend ticket accuracy
-
 -create filters for faction (i.e. filter all layers for faction United States Army on team 1)
 
 -add terminal args for configuring input JSON name/file path and output CSV's name/file path, filters, and fields

@@ -3,7 +3,7 @@ Scripts for analyzing Invasion balancing by layer or level. Requires custom JSON
 
 [Example of visualized data](https://bit.ly/Invasion-Match-Analysis)
 
-Special thanks to @midwaey for providing match logs, and @ChristianBrinkley for consulation!
+Special thanks to @midwaey for providing match logs, and @ChristianBrinkley for consultation!
 
 ## Prerequisites
 
